@@ -66,7 +66,3 @@ if __name__ == "__main__":
     emoticons()
     einstein()
     tip()
-
-#test commit
-#blahblahblah more terminal github testing
-#testing number tree
