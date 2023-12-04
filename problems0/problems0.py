@@ -59,9 +59,10 @@ def dollars_to_float(d): #returns the string removing any $ sign leading or trai
 def percent_to_float(p): #returns the string (as a float) without any % sign leading or trailing the string
     return float(p.strip("%"))/100
 
+#yes indeed
 if __name__ == "__main__":
-    # indoor()
-    # playback()
-    # emoticons()
-    # einstein()
-    # tip()
+    indoor()
+    playback()
+    emoticons()
+    einstein()
+    tip()
